@@ -1,0 +1,16 @@
+# Mubarak Bin Mohammed Charter School brand theme
+# Navy is the brand's main color; teal is the chosen single accent
+# (the brand guide forbids combining two accent colors in one visual).
+[theme]
+primaryColor = "#04045C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F7FA"
+textColor = "#04045C"
+font = "sans serif"
+
+[server]
+headless = true
+port = 8080
+address = "0.0.0.0"
+enableCORS = false
+enableXsrfProtection = false
