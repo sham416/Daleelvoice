@@ -1,7 +1,7 @@
 {
   "name": "MBM Washroom Log",
   "short_name": "Washroom",
-  "start_url": "./",
+  "start_url": "index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
